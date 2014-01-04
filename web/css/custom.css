@@ -1,0 +1,56 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.action-area {
+background: #FAFAFA;
+}
+
+
+.action-area>.nav.nav-pills{
+	margin-bottom:30px;
+}
+
+.hide{
+	display:none;
+}
+
+/*custom bootstrap*/
+
+
+.navbar{
+	border-radius:0px;
+	font-weight:300;
+	margin-bottom:30px;
+}
+
+.navbar-brand{
+	padding:5px;	
+}
+
+.dropdown-menu{
+	-webkit-box-shadow: 0 0px 0px rgba(0, 0, 0, 0.175);
+	box-shadow: 0 0px 0px rgba(0, 0, 0, 0.175);
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: #555555;
+background-color: transparent;
+font-weight: 600;
+}
+
+.tab-pane{
+	padding:20px;
+}
+
+.tab-content{
+border-left: 1px solid #ccc;
+border-right: 1px solid #ccc;
+border-bottom: 1px solid #ccc;
+}
+
+.btn{
+	margin: 20px 0px;
+}
+
